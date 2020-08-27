@@ -5,9 +5,9 @@ namespace ApiTestProject
     public class Tests
     {
         [Test]
-        public void Test1()
+        public void GETRequestFromAPIReturns200()
         {
-            //url
+            //url https://jsonplaceholder.typicode.com/posts/1
 
             //httpClient
 
